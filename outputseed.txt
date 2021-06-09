@@ -1,0 +1,6 @@
+Connection established with peer => 192.168.43.178:7777 
+Connection established with peer => 192.168.43.178:7778 
+Connection established with peer => 192.168.43.178:7776 
+Connection established with peer => 192.168.43.178:7775 
+Connection established with peer => 192.168.43.178:7777 
+Dead Node Deleted Successfully =>192.168.43.178:7777
